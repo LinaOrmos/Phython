@@ -1,0 +1,12 @@
+#we are going to print the directon in memory 
+# of x
+x = 100
+y = 23
+z = x+y
+print(x)
+print(y)
+print(z)
+#the direction of memory ram
+print(id(x))
+print(id(y))
+print(id(z))
