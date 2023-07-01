@@ -1,0 +1,11 @@
+#We declare a variable and 
+#ask for it's data type
+x = 100
+y="Hello World"
+z= 5.6
+W = True
+print(x)
+print(type(x))
+print(type(y))
+print(type(z))
+print(type(W))
