@@ -1,0 +1,8 @@
+#Declaring a variable for printing a message
+myVariable = "Hello World"
+myVariable2 = 2
+print(myVariable)
+print(myVariable2)
+#we can change the value of the variable 
+myVariable = "Hola World!<3"
+print(myVariable)
