@@ -1,0 +1,8 @@
+#The sum of two variables
+# values are stored into memory positions
+x = 100
+y = 23
+z = x+y
+print(x)
+print(y)
+print(z)
