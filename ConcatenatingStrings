@@ -2,5 +2,6 @@
 //appending one string to the end of another string". 
 //We use de + for concatenating strings
 
-MyFavoriteBand = "ACDC"
-print("My favorite Band is: " + MyFavoriteBand)
+MyFavoriteBand = "ACDC" +" "+ "The best rock bad."
+comment= "My bestie agrees"
+print("My favorite Band is: " + MyFavoriteBand+ " "+ comment)
