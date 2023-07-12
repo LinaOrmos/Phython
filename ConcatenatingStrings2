@@ -1,0 +1,7 @@
+//This is another example of how we can print
+//The ConcatenatingString code
+
+MyFavoriteBand = "ACDC" +" "+ "The best rock bad."
+comment= "My bestie agrees"
+#print("My favorite Band is: " + MyFavoriteBand+ " "+ comment)
+print("My favorite band is:", MyFavoriteBand, comment)
