@@ -1,2 +1,6 @@
-According to Microsoft: "Concatenation is the process of 
-appending one string to the end of another string". 
+//According to Microsoft: "Concatenation is the process of 
+//appending one string to the end of another string". 
+//We use de + for concatenating strings
+
+MyFavoriteBand = "ACDC"
+print("My favorite Band is: " + MyFavoriteBand)
