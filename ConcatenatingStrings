@@ -1,6 +1,6 @@
 //According to Microsoft: "Concatenation is the process of 
 //appending one string to the end of another string". 
-//We use de + for concatenating strings
+//We use the + for concatenating strings
 
 MyFavoriteBand = "ACDC" +" "+ "The best rock bad."
 comment= "My bestie agrees"
