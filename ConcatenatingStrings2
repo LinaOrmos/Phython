@@ -5,3 +5,7 @@ MyFavoriteBand = "ACDC" +" "+ "The best rock bad."
 comment= "My bestie agrees"
 #print("My favorite Band is: " + MyFavoriteBand+ " "+ comment)
 print("My favorite band is:", MyFavoriteBand, comment)
+#Be careful when adding strings
+number1= "1"
+number2 ="2"
+print(number1 + number2)
