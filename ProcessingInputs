@@ -1,0 +1,4 @@
+#function input for processing the entry of the user
+result = input("Write a message:")
+print("the message inserted:", result)
+print("end of the program")
