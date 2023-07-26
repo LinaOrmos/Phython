@@ -1,0 +1,6 @@
+#function input for processing the entry of the user
+#we have to convert the strings into int entries 
+number1 = int(input("Write a number:"))
+number2 = int(input("write another number"))
+result = number1+number2
+print("The result of the sum is:", result)
