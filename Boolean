@@ -1,0 +1,8 @@
+myvariable = False
+print(myvariable)
+
+myvariable =3>2
+print(myvariable)
+
+if myvariable:
+    print("the result")
