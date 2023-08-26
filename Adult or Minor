@@ -1,0 +1,9 @@
+#This program tells you if the age entered belongs to
+#An adult or a minor
+age = 18
+ageP = int(input("Enter your age: "))
+
+if ageP >= age:
+   print(f'The person with {ageP} is an adult')
+else:
+    print(f'The person with {ageP} is a minor')
