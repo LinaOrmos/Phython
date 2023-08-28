@@ -4,6 +4,10 @@ print(twenties)
 thirties = age >=30 and age <40
 print(thirties)
 if twenties or thirties:
-    print('Inside range 20\'s')
+    print('Inside range')
+    if twenties:
+        print('Inside twenties range')
+    elif thirties:
+        print('Inside thirties range')
 else:
     print('not in range')
