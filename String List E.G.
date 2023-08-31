@@ -1,0 +1,10 @@
+#define a list of string type
+names = ['John', 'Kate', 'Richard', 'Mary']
+ #print the list of names
+print(names)
+#access to the elemenst of a list
+print(names[0])
+print(names[1])
+#access to the elements in inverse mode
+print(names[-1])
+print(names[-2])
