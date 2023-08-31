@@ -8,3 +8,17 @@ print(names[1])
 #access to the elements in inverse mode
 print(names[-1])
 print(names[-2])
+#print a range
+print(names[0:2])#withouth including the index 2
+#Go from the beginning of the list to the index without including it
+print(names[:3])
+#from the index indiated to the end
+print(names[1:])
+#change a value from our list
+names[3] = 'Ivonne'
+print(names)
+#Iterate out list
+for name in names:
+    print(name)
+else: 
+    print('There are no more names in the list')
