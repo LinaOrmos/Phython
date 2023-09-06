@@ -1,0 +1,21 @@
+#Define a tuple
+fruits = ('orange', 'banana', 'apple')
+print(fruits)
+#We can know the lenght of the tuple
+print(len(fruits))
+#access to a particular element
+print(fruits[0])
+#we can use the inverse navegation
+print(fruits[-1])
+#access to a range of values
+print(fruits[0:2])
+#loop the elements
+for fruit in fruits:
+    print(fruit)
+#change value of a tuple
+#frutas [0] ='Peach'
+#we convert the tuple into a list
+fruitsList = list(fruits)
+fruitsList[0] = 'Peach'
+fruits = tuple(fruitsList)
+print('\n',fruits)
