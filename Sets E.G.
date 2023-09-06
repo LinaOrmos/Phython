@@ -1,0 +1,9 @@
+planets = {'Mars','Jupiter','venus' }
+print(planets)
+#lenght
+print(len(planets))
+#review if an element is present
+print('Mars' in planets)
+#add more elements
+planets.add('Earth')
+print(planets)
