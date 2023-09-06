@@ -1,0 +1,11 @@
+#Define a tuple
+fruits = ('orange', 'banana', 'apple')
+print(fruits)
+#We can know the lenght of the tuple
+print(len(fruits))
+#access to a particular element
+print(fruits[0])
+#we can use the inverse navegation
+print(fruits[-1])
+#access to a range of values
+print(fruits[0:2])
