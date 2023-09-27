@@ -1,3 +1,5 @@
+//This code tells us if an age ir in range using the if stateement
+
 age = int(input('Introduce your age'))
 twenties = age >= 20 and age <30
 print(twenties)
