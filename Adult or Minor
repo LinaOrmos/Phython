@@ -1,5 +1,5 @@
 #This program tells you if the age entered belongs to
-#An adult or a minor
+#An adult or a minor.
 age = 18
 ageP = int(input("Enter your age: "))
 
