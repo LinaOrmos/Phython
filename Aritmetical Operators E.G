@@ -1,3 +1,5 @@
+#This is an example of aritmetical operators 
+
 A = 3
 B = 2
 sum = A + B
@@ -14,4 +16,4 @@ print(f'The result of the division is: {division2}')
 mod = A%B
 print(f'The result of the module is: {mod}')
 exp = A ** B
-print(f'The result of the exponential is: {exp}')
+print(f'The result of the exponentIial is: {exp}')
