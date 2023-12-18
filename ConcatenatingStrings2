@@ -1,5 +1,5 @@
-//This is another example of how we can print
-//The ConcatenatingString code
+#This is another example of how we can print
+#The ConcatenatingString code
 
 MyFavoriteBand = "ACDC" +" "+ "The best rock bad."
 comment= "My bestie agrees"
