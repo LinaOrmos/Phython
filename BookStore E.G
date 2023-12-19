@@ -1,3 +1,5 @@
+#This is an example for a bookstore 
+
 print('Enter the data of the book: ')
 name = input('Name of the book: ')
 ID = int(input('Enterr the id: '))
