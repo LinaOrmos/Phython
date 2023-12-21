@@ -1,3 +1,4 @@
+#This are the operators of comparison
 A = 6
 B = 4
 result = A==B
