@@ -1,3 +1,4 @@
+#This is an example for the continue statement 
 #for i in range(10):
 #    if i% 2 ==0:
 #       print(f'value: {i}')
