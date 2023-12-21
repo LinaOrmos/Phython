@@ -1,3 +1,5 @@
+#This is an example of a Python list 
+
 if __name__ == '__main__':
     N = int(input())
     lst=[]
