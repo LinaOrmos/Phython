@@ -1,3 +1,4 @@
+#This is an example of the datatypes 
 #We declare a variable and 
 #ask for it's data type
 x = 100
