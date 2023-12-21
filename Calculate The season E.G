@@ -1,3 +1,5 @@
+#This is a season calculator 
+#We use the if and elif statements 
 month = int(input('Enter the month (1-12): '))
 station = None
 if month == 1 or month == 2 or month == 12: 
