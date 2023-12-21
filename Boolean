@@ -1,4 +1,4 @@
-//the boolean operator with python
+#the boolean operator with python
 myvariable = False
 print(myvariable)
 
