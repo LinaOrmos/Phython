@@ -1,3 +1,4 @@
+#This code tells us if we are in range 
 value = int(input('Enter a value'))
 minV = 0
 maxV = 5
