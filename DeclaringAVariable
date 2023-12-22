@@ -1,4 +1,5 @@
 #Declaring a variable for printing a message
+#This is how we declare variables in Python 
 myVariable = "Hello World"
 myVariable2 = 2
 print(myVariable)
