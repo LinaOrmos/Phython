@@ -1,4 +1,4 @@
-#we are going to print the directon in memory 
+#This code prints the directon in memory 
 # of x
 x = 100
 y = 23
