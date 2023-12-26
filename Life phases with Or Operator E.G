@@ -1,3 +1,5 @@
+#This is an example of the OR operator 
+
 age = int(input('Enter your age: '))
 msg = None
 if age == 1 or age < 10:
