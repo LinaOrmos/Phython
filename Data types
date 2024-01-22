@@ -1,0 +1,10 @@
+#This code prints the data types
+x = True
+print(x)
+print(type(x))
+x=14.7
+print(type(x))
+x=10
+print(type(x))
+x="hello world"
+print(type(x))
