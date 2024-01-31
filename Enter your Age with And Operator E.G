@@ -1,3 +1,5 @@
+#This is an example for the else and elif statements 
+
 age = int(input('Enter your age: '))
 msg = None
 if 0 <= age < 10:
